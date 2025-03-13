@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<label>Nhập số điện (kWh):</label>
+<input type="number" min="0"  id="input"><br>
+<input type = "button" onclick="caculate()" value="Tính">
+<p id="output"></p>
+<script>
+  function caculate() {
+    let a = parseInt(document.getElementById("input").value);
+    let b;
+    if (a > 0 && a <= 100) {
+      b=1893;
+    }else if (a <= 200  && a > 100) {
+      b=2272;
+    }else if (a <= 400  && a > 200) {
+      b=2860;
+    }else if (a <= 700  && a > 400) {
+      b=3407;
+    }else if (a > 700) {
+      b=3786;
+    }
+    let c=b*a;
+    document.getElementById("output").innerHTML = "Giá điện là "+c+ " VND";
+  }
+</script>
+</body>
+</html>
