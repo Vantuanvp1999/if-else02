@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da43dd5f-b25c-4214-ae8d-80496f6cb9bd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/baiTap11.html" beforeDir="false" afterPath="$PROJECT_DIR$/baiTap11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baiTap12.html" beforeDir="false" afterPath="$PROJECT_DIR$/baiTap12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baiTap2.html" beforeDir="false" afterPath="$PROJECT_DIR$/baiTap2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baiTap3.html" beforeDir="false" afterPath="$PROJECT_DIR$/baiTap3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baiTap4.html" beforeDir="false" afterPath="$PROJECT_DIR$/baiTap4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baiTap5.html" beforeDir="false" afterPath="$PROJECT_DIR$/baiTap5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baiTap6.html" beforeDir="false" afterPath="$PROJECT_DIR$/baiTap6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baiTap7.html" beforeDir="false" afterPath="$PROJECT_DIR$/baiTap7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baiTap8.html" beforeDir="false" afterPath="$PROJECT_DIR$/baiTap8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baiTap9.html" beforeDir="false" afterPath="$PROJECT_DIR$/baiTap9.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2uFB989wKjvndM0LJLwkPoOQCgc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "disable.download.node.interpreter.editor.notification": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Module 1/if-else02",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.25659.40" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da43dd5f-b25c-4214-ae8d-80496f6cb9bd" name="Changes" comment="" />
+      <created>1741834287917</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741834287917</updated>
+      <workItem from="1741834289080" duration="2095000" />
+      <workItem from="1741836470785" duration="5740000" />
+      <workItem from="1741923802889" duration="1330000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
