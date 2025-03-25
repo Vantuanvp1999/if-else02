@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da43dd5f-b25c-4214-ae8d-80496f6cb9bd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/baiTap11.html" beforeDir="false" afterPath="$PROJECT_DIR$/baiTap11.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baiTap12.html" beforeDir="false" afterPath="$PROJECT_DIR$/baiTap12.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baiTap2.html" beforeDir="false" afterPath="$PROJECT_DIR$/baiTap2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baiTap3.html" beforeDir="false" afterPath="$PROJECT_DIR$/baiTap3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baiTap4.html" beforeDir="false" afterPath="$PROJECT_DIR$/baiTap4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baiTap5.html" beforeDir="false" afterPath="$PROJECT_DIR$/baiTap5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baiTap6.html" beforeDir="false" afterPath="$PROJECT_DIR$/baiTap6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baiTap7.html" beforeDir="false" afterPath="$PROJECT_DIR$/baiTap7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baiTap8.html" beforeDir="false" afterPath="$PROJECT_DIR$/baiTap8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baiTap9.html" beforeDir="false" afterPath="$PROJECT_DIR$/baiTap9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +39,7 @@
     "disable.download.node.interpreter.editor.notification": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Module 1/if-else02",
+    "last_opened_file_path": "D:/Module 1/loop02",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -75,6 +66,8 @@
       <workItem from="1741834289080" duration="2095000" />
       <workItem from="1741836470785" duration="5740000" />
       <workItem from="1741923802889" duration="1330000" />
+      <workItem from="1741943743613" duration="454000" />
+      <workItem from="1742798079463" duration="8000" />
     </task>
     <servers />
   </component>
